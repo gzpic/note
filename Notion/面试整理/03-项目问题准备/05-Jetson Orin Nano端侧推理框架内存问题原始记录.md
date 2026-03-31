@@ -1,4 +1,4 @@
-# Jetson Orin Nano端侧推理框架内存问题原始记录
+w# Jetson Orin Nano端侧推理框架内存问题原始记录
 
 如果要给jetson orin nano适配一个端侧的大模型推理框架那内存应该如何提前分配和安排呢                                    
                                                                                      
